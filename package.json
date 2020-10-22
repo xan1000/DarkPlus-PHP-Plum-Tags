@@ -1,0 +1,32 @@
+{
+    "name": "darkplus-php-plum-tags",
+    "displayName": "Dark+ PHP Plum Tags",
+    "description": "Simple addition to the default Dark+ theme which makes PHP tags plum.",
+    "icon": "icon.png",
+    "version": "1.0.0",
+    "license": "Apache-2.0",
+    "publisher": "p26frqxxfmwrzekd6c6fcty5kipjkr3gaeejzpkyy42p5udjkjyq",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xan1000/DarkPlus-PHP-Plum-Tags"
+    },
+    "homepage": "https://github.com/xan1000/DarkPlus-PHP-Plum-Tags",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme", "color-theme", "dark+", "php", "tags"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark+ PHP Plum Tags",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark+ PHP Plum Tags-color-theme.json"
+            }
+        ]
+    }
+}
