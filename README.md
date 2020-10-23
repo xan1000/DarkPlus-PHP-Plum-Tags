@@ -8,9 +8,7 @@ This extension can be found here:
 
 ## Dark+ PHP Plum Tags theme
 
---- update-me ---
-
-![screenshot](https://raw.githubusercontent.com/xan1000/LightPlus-PHP-Purple-Tags/master/screenshots/Light%2BPhpPurpleTags.png)
+![screenshot](https://raw.githubusercontent.com/xan1000/DarkPlus-PHP-Plum-Tags/master/screenshots/Dark%2B-PHP-Plum-Tags.png)
 
 The issue with the default Dark+ theme for PHP tags is they use the same colour as HTML tags. Thus when mixing HTML markup & PHP code it can be hard to tell them apart.
 
@@ -18,9 +16,7 @@ Contrast the code snippet above with the default Dark+ theme.
 
 ## Dark+ theme
 
---- update-me ---
-
-![screenshot](https://raw.githubusercontent.com/xan1000/LightPlus-PHP-Purple-Tags/master/screenshots/Light%2B.png)
+![screenshot](https://raw.githubusercontent.com/xan1000/DarkPlus-PHP-Plum-Tags/master/screenshots/Dark%2B.png)
 
 ## Making PHP tags plum without this theme
 
