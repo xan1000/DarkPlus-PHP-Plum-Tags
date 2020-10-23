@@ -4,7 +4,7 @@ A `color theme` for `Visual Studio Code` which includes a simple addition to the
 
 This extension can be found here:
 
---- update-me ---
+https://marketplace.visualstudio.com/items?itemName=p26frqxxfmwrzekd6c6fcty5kipjkr3gaeejzpkyy42p5udjkjyq.darkplus-php-plum-tags
 
 ## Dark+ PHP Plum Tags theme
 
